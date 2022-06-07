@@ -6,3 +6,4 @@ In this repository I will discuss briefly about R programming basic as far as I 
 
 Here I have shown basic arithmetic property. 
 
+<img src="./images/arithmetic_rules.jpg" width="600" height="300">
